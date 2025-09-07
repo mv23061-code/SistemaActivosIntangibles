@@ -1,12 +1,15 @@
-# Sistema de Gestión de Dominios y Hosting
+# Sistema de Control de Activos Intangibles
 
-Proyecto académico para controlar dominios web, planes de hosting, vencimientos y reportes. Incluye diagramas UML, código Java, conexión a base de datos PostgreSQL y documentación técnica.
+Este proyecto tiene como objetivo desarrollar una aplicación para la gestión de activos intangibles dentro de una organización, como licencias de software (Office, Photoshop, AutoCAD), suscripciones digitales, certificados y otros recursos no físicos que requieren control administrativo y contable.
 
 ## Estructura del Proyecto
 - `src/`: Código fuente en Java
 - `uml/`: Diagramas UML
 - `db/`: Base de datos PostgreSQL
 - `docs/`: Documentación técnica
+- `util/` → Clases auxiliares y herramientas reutilizables
+- `README.md` → Descripción general del proyecto
+- `INSTRUCCIONES.md` → Guía de instalación y uso
 
 ## Tecnologías
 - Java
