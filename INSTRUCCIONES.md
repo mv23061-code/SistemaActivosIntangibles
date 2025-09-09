@@ -1,6 +1,6 @@
 # INSTRUCCIONES PARA EL EQUIPO
 
-Este documento contiene los pasos básicos para trabajar correctamente con el repositorio del proyecto “SistemaDominioHosting”.
+Este documento contiene los pasos básicos para trabajar correctamente con el repositorio del proyecto “SistemaActivosIntangibles”.
 
 ---
 
@@ -9,4 +9,4 @@ Este documento contiene los pasos básicos para trabajar correctamente con el re
 Abrir Git Bash y ejecutar el siguiente comando:
 
 ```bash
-git clone https://github.com/mv23061-code/SistemaDominioHosting.git
+git clone https://github.com/mv23601-code/SistemaActivosIntangibles.git
